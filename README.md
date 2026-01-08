@@ -1,1 +1,3 @@
-# Predictive-analysis-using-machine-learning
+# Predictive-analysis-using-machine-learning task no.2
+Company- CODTECH IT SOLUTIONS NAME- MEET BEEWAL INTERNID- CTIS009 DOMAIN-DATA ANAYLSIS DURATION- 6 WEEKS MENTOR- NEELA SANTOSH
+
